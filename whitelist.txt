@@ -1,2 +1,6 @@
-marketingautomation.services
-track.capitaloneshopping.com
+[Swack allow list]
+! Title: Swack's custom allow list
+! Description: Custom allow list
+!
+||marketingautomation.services^
+||track.capitaloneshopping.com^
