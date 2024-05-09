@@ -2,7 +2,7 @@
 ! Title: Swack's custom allow list
 ! Description: Custom allow list
 !
-||marketingautomation.services^
-||track.capitaloneshopping.com^
-||hubspotlinks.com^
-||hubspot.com^
+@@||marketingautomation.services^
+@@||track.capitaloneshopping.com^
+@@||hubspotlinks.com^
+@@||hubspot.com^
